@@ -1,0 +1,39 @@
+.image{
+    width: 40%;
+    margin-right: 50%;
+}
+body{
+    background-color: rgb(185, 88, 185);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+.form{
+    margin-block-end:20%;
+    margin-right: 0%;
+    padding: 10PX;
+}
+.table, th, td {
+    border: 2px solid black;
+
+    border-collapse: collapse;
+    margin: 10%,30%
+
+    
+}
+th,td{
+    background-color:rgb(144, 182, 70);
+}
+th,td{
+width: 300px;
+text-align:left;
+border: 1px solid black;
+padding: 10px;
+}
+
+    
+    
+
+
